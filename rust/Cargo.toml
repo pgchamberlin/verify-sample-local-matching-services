@@ -1,0 +1,9 @@
+[package]
+name = "rust_lms"
+version = "0.1.0"
+authors = ["Peter Chamberlin <peter.chamberlin@digital.cabinet-office.gov.uk>"]
+
+[dependencies]
+iron = "*"
+router = "*"
+rustc-serialize = "*"
